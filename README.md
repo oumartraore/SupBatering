@@ -23,6 +23,8 @@ Ce projet scolaire, dont le but est de réaliser un POC (Proof of concept) d'un 
 
 *NB :* je vous met à disposition le Labs proposé par Supinfo, et si je m'égare dans la distribution du document. les ayants droits peuvent me demander de le retirer
 
+Précision : Ce projet devait être fait en groupe - je l'ai fais tout seul, pour mon groupe, pendant qu'un membre de mon groupe réalisait le projet de Virtualisation pour nous.
+
 #### Information de déploiement
 
 IDE : Netbeans version (je vous le repriserai).
