@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/web/jsp/detail.jsp</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/src/java/com/supbatering/servlet/Manage.java</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/src/java/com/supbatering/servlet/Detail.java</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/src/java/com/supbatering/servlet/Edit.java</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/src/java/com/supbatering/servlet/Login.java</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/src/java/com/supbatering/servlet/Start.java</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/web/registerjsp.jsp</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/src/java/com/supbatering/servlet/Logout.java</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/src/java/com/supbatering/servlet/Register.java</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/web/jsp/header.jsp</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/web/jsp/manage.jsp</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/src/java/com/supbatering/servlet/Delete.java</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/web/jsp/edit.jsp</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/src/java/com/supbatering/session/NewSessionBean.java</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/web/index.jsp</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/src/java/com/supbatering/webservice/SupobjectFacadeREST.java</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/src/java/com/supbatering/filter/Auth.java</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/web/jsp/footer.jsp</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/web/jsp/register.jsp</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/web/jsp/index.jsp</file>
+            <file>file:/Users/oumartraore/Documents/M1/4%20JVA/Rendu/SupBatering/SupBatering-war/web/jsp/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>
