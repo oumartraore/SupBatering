@@ -5,17 +5,14 @@ SUPBATERING
 Author
 -------------
 
-Nom : TRAORE 
-Prénom : Oumar
-Promotion : 4ème année
-Ecole : Supinfo
+TRAORE Oumar Master 1 - Supinfo Campus de Toulouse
 
 ----------
 
 Description
 -------------
 
-Ce projet projet scolaire, dont le but est de réaliser POC d'un site de vente d'objet d'occasion en ligne.
+Ce projet scolaire, dont le but est de réaliser un POC (Proof of concept) d'un site de vente d'objet d'occasion en ligne.
 
 > **Technologie:**
 
